@@ -18,6 +18,10 @@
     // Do any additional setup after loading the view.
 
     master add 
+
+
+
+    feature1 new add
 }
 
 
@@ -26,7 +30,11 @@
 333
 444
 555
-666
+
 
 
 @end
+
+
+feature1 add
+feature1 add again
